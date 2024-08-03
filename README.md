@@ -63,7 +63,7 @@ This project is a simplified version of the popular game "Plants vs Zombies" imp
 
 ## Screenshots
 
-![Game Screenshot](path_to_screenshot)
+![Game Screenshot](background.jpg)
 
 ## Contributing
 
