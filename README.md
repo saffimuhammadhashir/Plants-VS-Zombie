@@ -44,8 +44,8 @@ This project is a simplified version of the popular game "Plants vs Zombies" imp
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/plants-vs-zombies-cpp.git
-    cd plants-vs-zombies-cpp
+    git clone https://github.com/saffimuhammadhashir/Plants-VS-Zombie.git
+    cd Plants-VS-Zombie
     ```
 
 2. Install SFML:
